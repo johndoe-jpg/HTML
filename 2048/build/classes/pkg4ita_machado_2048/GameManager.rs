@@ -1,0 +1,2 @@
+pkg4ita_machado_2048.Direction
+pkg4ita_machado_2048.GameManager
